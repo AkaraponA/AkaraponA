@@ -1,7 +1,5 @@
 ### Hi there I'm Akarapon Akarasuri (Gun) 👋
 
-<!--
-**AkaraponA/AkaraponA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m finding my first job.
 - 📖 I have Python (Data Analysis), Tableau and Power BI and SQL Skills.
